@@ -6,5 +6,7 @@ git branch (Ramas)
 git push /// git push origin "Nom Rama"
 git branch "Nomb. New Rama"
 git checkout "Nomb. Rama" (Pasar a otra rama)
+git diff (Ver cambios o diferencias entre los archivos locales y en la nube)
+git fetch (Ver cambios en el repositario)
 
 
