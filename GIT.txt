@@ -1,0 +1,10 @@
+git clone "URL"
+git init (Inicializa pero debe estar dentro de la carpeta dond quiere trabajar)
+git add .
+git commit -m "..."
+git branch (Ramas)
+git push /// git push origin "Nom Rama"
+git branch "Nomb. New Rama"
+git checkout "Nomb. Rama" (Pasar a otra rama)
+
+
